@@ -145,7 +145,7 @@ int main() {
         if (gameState == 1) {
             if (ballPosition.x - 21.0f <= 0) {
                 rightPlayerScore++;
-                if (rightPlayerScore >= 9) {
+                if (rightPlayerScore >= 11) {
                     gameState = 3; // Set the game state to restart
                     winner = 2;
                 } 
@@ -162,7 +162,7 @@ int main() {
         if (gameState == 1) {
             if (ballPosition.x + 21.0f >= GetScreenWidth()) {
                 leftPlayerScore++;
-                if (leftPlayerScore >= 9) {
+                if (leftPlayerScore >= 11) {
                     gameState = 3; // Set the game state to restart
                     winner = 1;
                 } 
