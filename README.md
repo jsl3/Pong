@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Pong Game</h3>
 
   <p align="center">
-    project_description
+    C++ and RayLib based Pong game.
     <br />
     <a href="https://github.com/jsl3/Pong"><strong>Explore the docs »</strong></a>
     <br />
@@ -76,7 +76,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/jsl3/Pong)
 
-C++ and RayLib based Pong game.
+C++ and RayLib based Pong game. Pong is a two-dimensional sports game that simulates table tennis. The player controls an in-game paddle by moving it vertically across the left or right side of the screen. They can compete against another player controlling a second paddle on the opposing side. Players use the paddles to hit a ball back and forth. The goal is for each player to reach eleven points before the opponent; points are earned when one fails to return the ball to the other.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,7 +85,7 @@ C++ and RayLib based Pong game.
 ### Built With
 
 * [![C++][c++]][c++-url]
-* [![raylib]raylib[https://www.raylib.com/]
+* [RayLib](https://www.raylib.com/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -112,7 +112,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Liudmil Markov - [linkedin-shield](https://linkedin.com/in/liudmil-markov)
+Liudmil Markov - [![linkedin-shield]][linkedin-url]
 
 Project Link: [https://github.com/jsl3/Pong](https://github.com/jsl3/Pong)
 
